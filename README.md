@@ -40,4 +40,4 @@ To set up and view the project locally:
    
    ```bash
 
-   git clone https://github.com/Firas-AL-Ahmad/training-website.git
+   git clone  https://github.com/FirasAL-Ahmad/Training-Website.git
